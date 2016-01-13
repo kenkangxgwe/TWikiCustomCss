@@ -107,6 +107,7 @@ from esc tab hack moz min-height solution ***/
 	position:absolute;
 	top:0px;
 	width:100%;
+        display:hidden;
 }
 #patternBottomBar {
 	z-index:1; /* Critical value for Moz/Opera Background Column colors fudge to work */
